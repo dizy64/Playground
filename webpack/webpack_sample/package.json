@@ -1,0 +1,14 @@
+{
+  "name": "webpack_sample",
+  "version": "1.0.0",
+  "description": "npm install 후 아래와 같이 실행함.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
