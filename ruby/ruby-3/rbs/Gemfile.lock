@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rbs (1.0.0)
+    typeprof (0.11.0)
+      rbs (>= 1.0.0)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  rbs
+  typeprof
+
+BUNDLED WITH
+   2.2.3

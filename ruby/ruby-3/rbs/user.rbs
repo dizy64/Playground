@@ -1,0 +1,7 @@
+class User
+  attr_reader name: String
+  attr_reader age: Integer
+
+  def initialize: (name: String, age: Integer) -> void
+  def greeting: -> String
+end
